@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Soubhagya</h1>
   <p><strong>System minded developer</strong></p>
   <p>
@@ -17,18 +17,6 @@
   </p>
 </div>
 
-```txt
-$ whoami
-Soubhagya
-
-$ focus
-- low level programming
-- data driven problem solving
-
-$ status
-building helpful tools whenever I get the time
-```
-
 ## About
 
 I enjoy working close to the metal, thinking through how things behave under the hood, and building software that helps people.
@@ -37,7 +25,7 @@ Most of my interest sits at the intersection of systems thinking, data, backend 
 
 ## Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img
       src="https://skillicons.dev/icons?i=rust,c,cpp,go,py,neovim,docker,aws&perline=8&theme=dark"
