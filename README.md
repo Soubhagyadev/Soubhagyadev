@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Soubhagya Swain</h1>
+  <h1>Soubhagya</h1>
   <p><strong>System minded developer</strong></p>
   <p>
     Into data, low level programming, and building software. I also do web dev sometimes😀.
@@ -40,21 +40,9 @@ Most of my interest sits at the intersection of systems thinking, data, backend 
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=rust,c,cpp,go,py,docker,aws&perline=7&theme=dark"
-      alt="Rust, C, C++, Go, Python, Docker, AWS"
+      src="https://skillicons.dev/icons?i=rust,c,cpp,go,py,neovim,docker,aws&perline=8&theme=dark"
+      alt="Rust, C, C++, Go, Python, Neovim, Docker, AWS"
     />
   </a>
 </p>
 
-## What I Like Building
-
-- Systems flavored projects
-- Data heavy tools and workflows
-- Developer tooling
-- Backend services and practical infra
-
-## Operating Style
-
-- Prefer clarity
-- Like fast feedback loops and clean abstractions
-- Usually optimize for usefulness first, rest last
