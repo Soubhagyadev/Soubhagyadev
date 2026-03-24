@@ -1,10 +1,60 @@
-#  About Me:
-Hi, I'm Soubhagya from Odisha, India<br>I love data and I love contributing & building software's whenever I get time.<br>
+<div align="center">
+  <h1>Soubhagya Swain</h1>
+  <p><strong>System minded developer</strong></p>
+  <p>
+    Into data, low level programming, and building software. I also do web dev sometimes😀.
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/soubhagyaswain">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/NeroOn30">
+      <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X" />
+    </a>
+    <a href="mailto:soubhagyaswain141@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+    </a>
+  </p>
+</div>
 
+```txt
+$ whoami
+Soubhagya
 
+$ focus
+- low level programming
+- data driven problem solving
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soubhagyaswain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NeroOn30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soubhagyaswain141@gmail.com) 
+$ status
+building helpful tools whenever I get the time
+```
 
-#  Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+## About
+
+I enjoy working close to the metal, thinking through how things behave under the hood, and building software that helps people.
+
+Most of my interest sits at the intersection of systems thinking, data, backend logic, and developer tooling. If it is efficient, well structured, and a little obsessive about detail, I will probably like it.
+
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=rust,c,cpp,go,py,docker,aws&perline=7&theme=dark"
+      alt="Rust, C, C++, Go, Python, Docker, AWS"
+    />
+  </a>
+</p>
+
+## What I Like Building
+
+- Systems flavored projects
+- Data heavy tools and workflows
+- Developer tooling
+- Backend services and practical infra
+
+## Operating Style
+
+- Prefer clarity
+- Like fast feedback loops and clean abstractions
+- Usually optimize for usefulness first, rest last
